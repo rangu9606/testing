@@ -1,2 +1,0 @@
-this is file A
-version 1.0
