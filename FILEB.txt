@@ -1,2 +1,2 @@
 this is file B
-virsion 1.0
+version B
